@@ -44,7 +44,7 @@ a:active {
 <body>
 <table width="100%" height="1000" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td height="161" colspan="2"><img src="file:///C|/Users/ASUS/Downloads/cb1ef6bdf90c18912986a7fa140d64aa.jpg" width="957" height="245" /></td>
+    <td height="161" colspan="2"><img src="cb1ef6bdf90c18912986a7fa140d64aa.jpg" width="957" height="245" /></td>
   </tr>
   <tr>
     <td width="22%" rowspan="3" valign="top"><table width="40%" height="755" border="0" cellpadding="4" cellspacing="4">
